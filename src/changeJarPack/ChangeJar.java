@@ -8,7 +8,7 @@ import java.util.*;
  *
  * The purpose this class is to simulate a change Jar.
  *
- * @RicardoHerrera-Santos & Larry
+ * @RicardoHerrera-Santos&Larry
  */
 
 public class ChangeJar {
