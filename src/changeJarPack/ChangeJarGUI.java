@@ -29,5 +29,6 @@ public class ChangeJarGUI {
 		gui.setJMenuBar(menus);
 		gui.pack();
 		gui.setVisible(true);
+
 	}
 }
